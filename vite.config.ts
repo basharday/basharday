@@ -8,7 +8,7 @@ function escapeAttribute(input: string) {
 }
 
 function normalizeBase(value: string) {
-  return `/${value.split('/').filter(Boolean).join('/')}${value === '/' || value.trim() === '' ? '' : '/'}` || '/';
+  return `/${value.split('/').filter(Boolean).join('/')}${value === '/' || value.trim() === '' ? '' : '/'}`;
 }
 
 export default defineConfig(() => {
