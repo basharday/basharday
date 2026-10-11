@@ -29,7 +29,7 @@ export type Experience = {
 
 export const portfolio = {
   identity: {
-    name: 'YOUR NAME',
+    name: 'Software Developer',
     /** Shown in favicon artwork; update public/favicon.svg separately if desired. */
     initials: 'YN',
     title: 'Software Engineer',
