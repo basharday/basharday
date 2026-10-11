@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Software Engineer Portfolio</title><desc id="desc">Software Engineer. Building thoughtful digital experiences.</desc>
+<rect width="1200" height="630" fill="#f6f9fc"/>
+<circle cx="1060" cy="90" r="250" fill="#dbeafe" opacity=".75"/>
+<circle cx="940" cy="510" r="190" fill="#d1fae5" opacity=".55"/>
+<rect x="64" y="64" width="1072" height="502" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="114" y="116" width="54" height="54" rx="16" fill="#3b82f6"/>
+<text x="141" y="150" text-anchor="middle" font-size="21" font-weight="bold" fill="white" font-family="Arial,sans-serif">YN</text>
+<text x="114" y="271" font-size="68" font-weight="700" fill="#1e293b" font-family="Arial,sans-serif" letter-spacing="-3">Software Engineer.</text>
+<text x="114" y="356" font-size="67" font-weight="700" fill="#3b82f6" font-family="Arial,sans-serif" letter-spacing="-3">Thoughtfully built.</text>
+<text x="116" y="442" font-size="26" fill="#64748b" font-family="Arial,sans-serif">IT Graduate · University of Vienna · Vienna, Austria</text>
+</svg>
